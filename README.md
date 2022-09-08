@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @awenplaza
-- 👀 I’m interested in web development and web design
-- 🌱 I’m currently learning javascript, nodejs and php
-- 📫 How to reach me? discord - AWENNN#2124 or here on github
+- 👀 I’m interested in Web Development and Web Design
+- 🌱 I’m currently learning Python, JavaScript and Node.js
+- 📫 How to reach me? Discord - awenplaza#2124 or here on Github
 
 
 <!---
