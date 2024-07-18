@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @awenplaza
-- 👀 I’m interested in Web Development and Web Design
-- 🌱 I’m currently learning Python, JavaScript and Node.js
+- 👀 I’m interested in Frontend and Data Science
+- 🌱 I’m currently learning JavaScript and Python
 - 📫 How to reach me? Discord - awenplaza#2124 or here on Github
 
 
