@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @awenplaza
 - 👀 I’m interested in Frontend and Data Science
-- 🌱 I’m currently learning JavaScript and Python
+- 🌱 I’m currently learning ReactJS and JavaScript
 - 📫 How to reach me? Discord - awenplaza#2124 or here on Github
 
 
